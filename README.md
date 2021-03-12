@@ -1,11 +1,5 @@
 # README
 
-* Author: [Yidan Sun ys303] [Denise Liu xl340]
-* Course: [ECE568]
-* Term: [2021spring]
-* Professor: [Brian Rogers]
-
-
 
 ### **You need to access http://0.0.0.0:8000/myapp/register/ to register at first!!!**
 
